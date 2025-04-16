@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @charbloc123
 - 👀 I’m interested in codeing
 - 🌱 I’m currently learning code
-- 📫 How to reach me charbloc123@gmail.com
+- 📫 How to reach me: founder@cjchq.com or https://discordapp.com/users/1238383656595226685
 - ⚡ Fun fact: The first phone greeting was “Ahoy!”
 
 <!---
